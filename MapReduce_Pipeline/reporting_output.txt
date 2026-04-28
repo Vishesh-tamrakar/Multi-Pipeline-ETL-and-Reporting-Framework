@@ -1,0 +1,9 @@
+==================================================
+MapReduce Pipeline Execution Complete
+==================================================
+Pipeline: MapReduce
+Total Records Processed: 3461613
+Number of Batches: 8
+Average Batch Size: 432701.62
+Total Runtime (seconds): 103.04
+==================================================
