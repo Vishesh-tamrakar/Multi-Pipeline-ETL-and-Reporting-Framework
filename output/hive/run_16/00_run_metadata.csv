@@ -1,0 +1,2 @@
+run_id,pipeline_name,run_timestamp,batch_size,total_records,malformed_count,num_batches,avg_batch_size,runtime_ms
+16,hive,2026-04-28 14:22:13.619305,500000,3461613,8,7,494516.14,91095
