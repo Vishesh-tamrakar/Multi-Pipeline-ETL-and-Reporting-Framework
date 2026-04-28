@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.env
+.env
+
+# Virtual envs
+venv/
+env/
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs and runtime
+*.log
+/tmp/
+*.pid
+
+# Data and large files
+data/
+metastore_db/
+output/
+/tmp/etl_output/
+artifacts/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.sqlite
+*.db
+
+# Do not commit local secrets
+secrets.yml
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Node
+node_modules/
